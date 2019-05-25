@@ -1,0 +1,57 @@
+[{
+        "id": 0,
+        "author": "led zeppelin",
+        "song": "stairway to heaven",
+        "duration": "2:03",
+        "text": "Sound 1 text .................."
+    },
+    {
+        "id": 1,
+        "author": "queen",
+        "song": "bohemian rhapsody",
+        "duration": "2:30",
+        "text": "Sound 2 text .................."
+    },
+    {
+        "id": 2,
+        "author": "lynyrd skynyrd",
+        "song": "free bird",
+        "duration": "1:56",
+        "text": "Sound 3 text .................."
+    },
+    {
+        "id": 3,
+        "author": "deep purple",
+        "song": "smoke on the water",
+        "duration": "3:03",
+        "text": "Sound 4 text .................."
+    },
+    {
+        "id": 4,
+        "author": "jimi hendrix",
+        "song": "all along the watchtower",
+        "duration": "2:53",
+        "text": "Sound 5 text .................."
+    },
+    {
+        "id": 5,
+        "author": "AC/DC",
+        "song": "back in black",
+        "duration": "2:43",
+        "text": "Sound 6 text .................."
+    },
+    {
+        "id": 6,
+        "author": "queen",
+        "song": "we will rock you",
+        "duration": "2:13",
+        "text": "Sound 7 text .................."
+    },
+    {
+        "id": 7,
+        "author": "metallica",
+        "song": "enter sandman",
+        "duration": "3:03",
+        "text": "Sound 8 text .................."
+    }
+]
